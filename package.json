@@ -1,7 +1,7 @@
 {
-  "name": "socket-chat-example",
+  "name": "live-colors",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "colorize the shit out of your audience...",
   "dependencies": {
     "express": "4.10.2",
     "socket.io": "1.2.0"
